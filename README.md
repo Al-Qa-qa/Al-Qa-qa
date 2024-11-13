@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al-Qa-qa
+- 👋 Hi, I’m Al-Qa'qa'
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning Ethereum Virtual Machine
 - 🤝️ I’m looking to collaborate on some Blockchain projects
